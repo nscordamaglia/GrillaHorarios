@@ -1,0 +1,190 @@
+@charset "utf-8";
+/* CSS Document */
+
+             .land{
+				display:block;
+			 }
+
+	  			a, img { text-decoration:none; border:0px; font-family:"Arial"; display:none;}
+			.franco {
+				font-family:"Arial";
+				font-weight:bold;
+				background-color:#66CC33;
+					}
+			.vacas {
+				font-family:"Arial";
+				font-weight:bold;
+				background-color:#FFFF99;
+			}
+			.LicMed {
+				font-family:"Arial";
+				font-weight:bold;
+				background-color:#C0C0C0;
+					}
+					.donar {
+				font-family:"Arial";
+				color:#60C;
+				font-weight:bold;
+				background-color:#FF66FF;
+					}
+					.natalicio {
+				font-family:"Arial";
+				font-weight:bold;
+				background-color:#CC99FF;
+					}
+					.LicExam {
+				font-family:"Arial";
+				font-weight:bold;
+				background-color:#FFCCFF;
+					}
+					.nacimiento {
+					font-family:"Arial";
+					font-weight:bold;
+					color:#10891A;
+					background-color:#E6FFE8;
+					}
+					.curso {
+				font-family:"Arial";
+				font-weight:bold;
+				background-color:#FF9900;
+					}
+					.muda {
+				font-family:"Arial";
+				font-weight:bold;
+				color:#900;
+				background-color:#FFFFFF;
+					}
+					.FraInt {
+				font-family:"Arial";
+				font-weight:bold;
+				background-color:#66CC33;
+					}
+			.finde {
+				font-family:"Arial";
+				font-weight:bold;
+				background-color:#66CCFF;
+			}
+			.back {
+				
+				background-color:#E0F8EC;
+			}
+			th {
+				/*border: 1px solid #235fab;
+				border-radius: 10px;*/
+				text-align: center;
+				width: 24px;
+				background-color:#235fab;
+			}
+			td {
+			/*border: 1px solid #FFFFCC;
+						border-radius: 10px;*/
+						text-align: center;
+			width: 24px;
+			padding: 2px 2px 2px 2px;
+					   text-align-center;
+			background-color:#FFF;
+					}
+			.table {
+					table-layout:fixed;
+					}
+			
+			#capaefectos {
+				border: 1px solid #235fab;
+				border-radius: 10px;
+				-moz-border-radius: 10px;
+				-webkit-border-radius: 10px;
+				background-color:#CDD8FE;
+				padding:0px;
+				margin:0px;
+				behavior: url(Pie/PIE.htc);
+				font-family:"Arial";
+							}
+			#primer_col_iz {
+								border: 1px solid #235fab;
+								border-radius: 10px 0px 0px 0px;
+								-moz-border-radius: 10px 0px 0px 0px;
+								-webkit-border-radius: 10px 0px 0px 0px;
+								behavior: url(Pie/PIE.htc);
+								
+								
+						}
+			#primer_col_der {
+								border: 1px solid #235fab;
+								border-radius: 0px 10px 0px 0px;
+								-moz-border-radius: 0px 10px 0px 0px;
+								-webkit-border-radius: 0px 10px 0x 0px;
+								behavior: url(Pie/PIE.htc);
+							}
+			
+			#foot {
+						text-align: center;
+						background-color: #235fab;
+						border: 1px solid #235fab;
+						border-radius: 0px 0px 10px 10px;
+						-moz-border-radius: 0px 0px 10px 10px;
+						-webkit-border-radius: 0px px 10px 10px;
+						behavior: url(Pie/PIE.htc);
+						}
+			#col_nombre {
+							text-align: left;
+							width:110px;
+							
+						}
+			.grid tr.over td
+							{
+								background: #bcd4ec;
+							}
+			#menu_mes span.over
+								{
+									background: #bcd4ec;
+								}
+
+			#menu_mes span {
+								border: 1px solid black;
+								border-radius: 5px;
+								-moz-border-radius: 5px 5px 0px 0px;
+								-webkit-border-radius: 5px 5px 0px 0px;								
+								padding: 3px;	
+								margin: 3px;
+								background-color:#ECF8E0;
+								cursor:pointer;
+								behavior: url(Pie/PIE.htc);
+							}
+			#menu_mes  {
+								position: absolute;
+								left: 18%;
+								top: 9%;
+								font-family:"Arial";
+								display:none;
+								
+								
+							}
+			#pulsado{
+										
+				background: #bcd4ec;
+				}
+			#sin_pulsar {
+				background-color:#66FF66;
+			}
+			#titulo_mes{
+				
+				font-family:"Arial";
+				font-size:24px;
+				font-weight:bold;
+				float:right;
+				width:30%;
+			}
+			#actualizado{
+				
+				font-family:"verdana";
+				font-size: 10px;
+				float:right;
+				width:30%;
+				
+				
+			}
+			#info_franco{
+				font-family:"Arial";
+				font-weight:bold;	
+			}
+			 
